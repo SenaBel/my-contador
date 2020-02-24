@@ -10,7 +10,7 @@ margin-left: 50%;
 
 export const Panel = styled.div `
 
-background: #7f95a8;;
+background: #556B2F;
 margin-left: 20%;
 margin-right: 20%;
 margin-bottom: 10%;
